@@ -1,4 +1,4 @@
-# SimpleCarRentalAutomationSystemProject
+# Simple Car Rental Automation System Project
 Basit Araç Kiralama Otomasyon Sistemi Projesi
 
 ![Ekran Görüntüsü (183)](https://user-images.githubusercontent.com/33496795/107527190-a70a4a00-6bc9-11eb-90ce-4611448a75ef.png)
